@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Sudoku
 {
+    // Die Klasse repräsentiert ein einzelnes Feld
     public class Field
     {
         private int? fieldValue;
